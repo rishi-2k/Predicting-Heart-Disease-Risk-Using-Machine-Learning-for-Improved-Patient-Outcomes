@@ -1,0 +1,2 @@
+# Predicting-Heart-Disease-Risk-Using-Machine-Learning-for-Improved-Patient-Outcomes
+Developed and implemented machine learning models, including LightGBM and Neural Networks, to  predict heart disease risk using healthcare data. Achieved high recall (up to 92%) and AUC-ROC.   Optimized model performance through hyperparameter tuning and cross-validation. Developed a deployment strategy for healthcare workflow integration.
